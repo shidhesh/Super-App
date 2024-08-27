@@ -1,4 +1,4 @@
-#AI-driven Search: Find the best deals or services quickly and effortlessly.
+# AI-driven Search: Find the best deals or services quickly and effortlessly.
 🤝 Contributing
 We welcome contributions from the community! Please check out our CONTRIBUTING.md file for more details.
 
